@@ -1,0 +1,22 @@
+# List packages to add to your image here one per line.
+gcc47
+gcc47-libs
+scmgit-base
+gmake
+ruby193-base
+ruby193-yajl
+ruby193-nokogiri
+ruby193-readline
+pkg-config
+flume
+hadoop
+hbase
+hcatalog
+hive
+mahout
+oozie
+pig
+sqoop
+templeton
+zookeeper-client
+zookeeper-server

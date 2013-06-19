@@ -1,0 +1,19 @@
+hadoop-13.1.0
+* Base image is base64-13.1.0 (2013Q1)
+* Includes hadoop, hbase, hcatalog, hive, flume, templeton, zookeeper, oozie, pig, sqoop, and mahout
+* Hadoop version is 1.1.2
+* Hbase version is 0.94.7
+* Hcatalog version is 0.5.0
+* Hive version is 0.10.0
+* Pig version is 0.10.1
+* Flume version is 1.3.1
+* Templeton version is 0.1.0
+* Zookeeper version is 3.4.5
+* Oozie version is 3.3.1
+* Sqoop version is 1.4.2
+* Mahout version is 0.7
+
+hadoop-1.0.0
+* Base image is base64-1.8.4 (2012Q2)
+* Includes hadoop, hbase, hcatalog, hive, pig, zookeeper, and templeton
+* Initial release
