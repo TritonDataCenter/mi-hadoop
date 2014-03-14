@@ -1,7 +1,7 @@
 name="hadoop"
 organization="Joyent"
 brand="Instance"
-version="13.1.0"
+version="13.3.1"
 description="A SmartOS 64-bit image with Hadoop Hortonworks components pre-installed.  Includes hadoop, hbase, hcatalog, hive, pig, templeton, flume, pig, oozie, sqoop, and mahout."
 homepage="http://wiki.joyent.com/jpc2/Joyent+Hadoop+SmartMachine"
 users="root admin"

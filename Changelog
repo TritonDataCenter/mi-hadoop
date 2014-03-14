@@ -1,3 +1,23 @@
+hadoop-13.3.1
+* Base image is base64-13.3.0 (2013Q3)
+* Change java from sun-jdk to openjdk
+* OpenJDK version is 1.7.25
+* Npm Manta installed by default
+
+hadoop-13.3.0
+* Base image is base64-13.3.0 (2013Q3)
+* Hadoop version is 1.1.2
+* Hbase version is 0.94.7
+* Hcatalog version is 0.5.0
+* Hive version is 0.11.0
+* Pig version is 0.10.1
+* Flume version is 1.4.0
+* Templeton version is 0.1.0
+* Zookeeper version is 3.4.5
+* Oozie version is 3.3.1
+* Sqoop version is 1.4.2
+* Mahout version is 0.7
+
 hadoop-13.1.0
 * Base image is base64-13.1.0 (2013Q1)
 * Includes hadoop, hbase, hcatalog, hive, flume, templeton, zookeeper, oozie, pig, sqoop, and mahout
